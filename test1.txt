@@ -5,3 +5,6 @@ if (kod) {
 }
 
 System.out.printHank()
+while(kod) {
+
+}
