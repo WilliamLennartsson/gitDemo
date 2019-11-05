@@ -1,1 +1,7 @@
 Hej hej!
+
+if (kod) {
+   hanky++;
+}
+
+System.out.printHank()
